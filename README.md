@@ -1,5 +1,5 @@
 <div style="display: flex; width: 100%; justify-content: center;">
-    <img src="https://www.bram.us/wordpress/wp-content/uploads/2016/04/es6-webpack-react-babel.png" alt="React Logo" align="center" width="75px"/>
+    <img src="https://www.bram.us/wordpress/wp-content/uploads/2016/04/es6-webpack-react-babel.png" alt="React Logo"/>
 </div>
 <br />
 
