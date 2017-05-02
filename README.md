@@ -1,6 +1,6 @@
 <div style="display: flex; width: 100%; justify-content: center;">
     <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="React Logo" align="center" width="75px"/>
-<div>
+</div>
 <br />
 
 <div align="center"><strong>Start your next react project in seconds</strong> :octocat:</div>
